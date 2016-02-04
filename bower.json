@@ -1,0 +1,15 @@
+{
+  "name": "Interactive Radio",
+  "description": "Test d'intégration pour candidature Sensiolabs",
+  "main": "public/index.html",
+  "authors": [
+    "Robin Coroir <robincoroir@gmail.com>",
+    "Alexandre Leborgne <alex.e.leb@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6"
+  }
+}
