@@ -1,0 +1,13 @@
+/*
+* Responsive Bootstrap Desktop First
+* @link: https://gist.github.com/webinfinita/11407836
+*/
+
+@mixin mobile {
+    @media (max-width: 767px) { @content }
+}
+
+@mixin size($width, $height : $width) {
+    width: $width;
+    height: $height;
+}

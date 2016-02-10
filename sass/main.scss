@@ -1,2 +1,22 @@
-
+// Custom variables
 @import "variables";
+
+// Bootstrap
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Mixins
+@import 'mixins/breakpoints';
+
+// Custom styling
+@import 'modules/typography';
+//@import 'modules/backgrounds';
+//@import 'modules/buttons';
+//@import 'modules/forms';
+//@import 'modules/header';
+//@import 'modules/headings';
+//@import 'modules/layout';
+//@import 'modules/player';
+//@import 'modules/utils';
+
+/* Browser compatibility */
+//@import 'modules/fallbacks';
